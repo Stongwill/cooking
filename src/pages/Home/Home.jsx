@@ -7,7 +7,9 @@ export default function Home({ category = [], value }) {
     <main className="home">
       <div className="container">
         <div className="home__inner">
-          <h1 className="title">Categories</h1>
+          <h1 className="title">
+            {!category.length ? `Nothing found 😓😓😓` : "Categories"}
+          </h1>
           <Search value={value} />
         </div>
         {!category.length ? (
