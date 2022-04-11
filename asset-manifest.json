@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cooking/static/css/main.40d293b9.css",
+    "main.js": "/cooking/static/js/main.8127fc0d.js",
+    "static/media/logo.png": "/cooking/static/media/logo.bb27f8c6fdb00b6fe773.png",
+    "index.html": "/cooking/index.html",
+    "main.40d293b9.css.map": "/cooking/static/css/main.40d293b9.css.map",
+    "main.8127fc0d.js.map": "/cooking/static/js/main.8127fc0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d293b9.css",
+    "static/js/main.8127fc0d.js"
+  ]
+}
